@@ -1,0 +1,49 @@
+body{
+  background-color: #fe8e0b;
+
+}
+
+
+.container{
+  display: flex;
+  flex-direction: row;
+  background-color: #eee;
+  width: 70vw;
+  height:35vw;
+  margin: 5vw 15vw;
+  border-radius: 1%;
+
+}
+
+
+.navbar{
+  background-color: #443c4a;
+  flex:10%;
+  display:flex;
+  flex-direction: column;
+  
+}
+.profile img{
+  width:auto;
+  height:4vw;
+}
+.porofile p {
+    font-size: 0.75vw;
+}
+.servises{
+  padding: 1vw;
+
+}
+.setting{}
+
+
+.chatList{
+  background-color: #acabbc;
+  flex:30%;
+}
+
+
+.conversations{
+  background-color: #d4d4e7;
+  flex:60%;
+}
